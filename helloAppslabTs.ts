@@ -1,1 +1,2 @@
-console.log("Hello Appslab");
+let a: string = "Hello appslab"
+console.log(a);
