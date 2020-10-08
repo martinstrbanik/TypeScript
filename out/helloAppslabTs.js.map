@@ -1,1 +1,1 @@
-{"version":3,"file":"helloAppslabTs.js","sourceRoot":"","sources":["../helloAppslabTs.ts"],"names":[],"mappings":"AAAA,IAAI,CAAC,GAAW,eAAe,CAAA;AAC/B,OAAO,CAAC,GAAG,CAAC,CAAC,CAAC,CAAC"}
+{"version":3,"file":"helloAppslabTs.js","sourceRoot":"","sources":["../helloAppslabTs.ts"],"names":[],"mappings":"AAAA,IAAI,MAAM,GAAW,GAAG,CAAC;AACzB,IAAI,MAAM,GAAW,GAAG,CAAC;AACzB,IAAI,KAAK,GAAW,GAAG,CAAC;AACxB,IAAI,aAAa,GAAW,MAAM,GAAC,MAAM,GAAC,KAAK,CAAC;AAChD,OAAO,CAAC,GAAG,CAAC,aAAa,CAAC,CAAC"}
